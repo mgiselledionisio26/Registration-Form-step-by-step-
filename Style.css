@@ -1,0 +1,27 @@
+body {
+	margin-top:x
+	}
+.all{
+	display: table-caption;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14px;
+}
+
+
+
+h1{
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+		width: 50%;
+}
+
+div
+{
+
+}
+pre
+{
+	font-size : 14px;
+}

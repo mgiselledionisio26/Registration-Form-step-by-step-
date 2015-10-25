@@ -1,0 +1,26 @@
+body {
+	margin-top:x
+	}
+.title{
+	display: table-caption;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14px;
+}
+
+th
+    {
+        display: table-row;
+		border: medium solid #0F0;
+   }
+table
+{
+	border: solid;
+}
+
+.heading {
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+		width: 50%;
+}
